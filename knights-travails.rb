@@ -6,5 +6,3 @@ def is_valid(pos)
     end
     return true
 end
-
-x = 1
